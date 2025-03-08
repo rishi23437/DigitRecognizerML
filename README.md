@@ -1,9 +1,9 @@
 # DigitRecognizerML
 This model, trained on the MNIST database of handwrittend digits, recognizes and classifies the digits 0, 1 and 2. It involves:
-* Maximum Likelihood Estimation (MLE) for parameter estimation.
-* Principal Component Analysis (PCA) for dimensionality reduction.
-* Fisher's Discriminant Analysis (FDA) for optimal projection.
-* Linear and Quadratic Discriminant Analysis (LDA & QDA) for classification.
+* **Maximum Likelihood Estimation (MLE)** for parameter estimation.
+* **Principal Component Analysis (PCA)** for dimensionality reduction.
+* **Fisher's Discriminant Analysis (FDA)** for optimal projection.
+* **Linear and Quadratic Discriminant Analysis (LDA & QDA)** for classification.
 
 
 ## Installation and Usage
@@ -15,7 +15,7 @@ cd DigitRecognizer
 * Download the [MNIST Dataset](https://www.kaggle.com/datasets/hojjatk/mnist-dataset) from Kaggle and place it in the main directory.
 * Run the main file
 ``` bash
-python main.py
+python digit_recognizer.py
 ```
 
 
