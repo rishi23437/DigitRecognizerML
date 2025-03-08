@@ -30,7 +30,7 @@ Additionally, the project also displays 2D plots of the PCA and FDA-transformed 
 ## Results
 - LDA accuracy on PCA-transformed dataset: 95.67%.
 - LDA accuracy on FDA-transformed dataset: 94.67%.
-- QDA accuracy on PCA-transformed dataset: 97.00%.
+- QDA accuracy on FDA-transformed dataset: 97.00%.
 
 
 ## References
