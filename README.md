@@ -1,9 +1,9 @@
 # DigitRecognizerML
 This model, trained on the MNIST database of handwrittend digits, recognizes and classifies the digits 0, 1 and 2. It involves:
-* **Maximum Likelihood Estimation (MLE)** for parameter estimation.
-* **Principal Component Analysis (PCA)** for dimensionality reduction.
-* **Fisher's Discriminant Analysis (FDA)** for optimal projection.
-* **Linear and Quadratic Discriminant Analysis (LDA & QDA)** for classification.
+* Maximum Likelihood Estimation (**MLE**) for parameter estimation.
+* Principal Component Analysis (**PCA**) for dimensionality reduction.
+* Fisher's Discriminant Analysis (**FDA**) for optimal projection.
+* Linear and Quadratic Discriminant Analysis (**LDA & QDA**) for classification.
 
 
 ## Installation and Usage
@@ -28,9 +28,9 @@ Additionally, the project also displays 2D plots of the PCA and FDA-transformed 
 
 
 ## Results
-- LDA accuracy on PCA-transformed dataset: 95.67%.
-- LDA accuracy on FDA-transformed dataset: 94.67%.
-- QDA accuracy on FDA-transformed dataset: 97.00%.
+- LDA accuracy on PCA-transformed dataset: **95.67%**.
+- LDA accuracy on FDA-transformed dataset: **94.67%*.
+- QDA accuracy on FDA-transformed dataset: **97.00%**.
 
 
 ## References
